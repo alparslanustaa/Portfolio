@@ -2,6 +2,10 @@ import React  from 'react'
 
 const NavBar = () => {
   return (
-    <div>Navbar</div>
+    <div className='fixed w-full h-[80px]'>
+
+    </div>
   )
 }
+
+export default NavBar
