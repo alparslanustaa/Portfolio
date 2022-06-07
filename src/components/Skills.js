@@ -16,6 +16,13 @@ const Skills = () => {
         <p>Experience</p>
         <p>Techologies I have familier with</p>
       </div>
+
+      <div>
+        <div>
+          <img src={HTML} alt="HTML icon" />
+          <p>HTML</p>
+        </div>
+      </div>
     </div>
   );
 };
