@@ -21,8 +21,13 @@ const About = () => {
             <p>
               I am passionate about building excellent software that improves
               the lives of those around me. I specialize in creating web
-              applications with responsive design . What would you do if you had
-              a software expert available at your fingertips?
+              applications with responsive design. I am not only fond of the web
+              development work that I do, but I take great pride in it, as well.
+              If given the chance," What would you do if you had a software
+              expert available at your fingertips? " I would enjoy an
+              opportunity to chat about your upcoming projects and plans and
+              share with you how my achievements at web development can be
+              replicated and improved with your ideas.
             </p>
           </div>
         </div>
