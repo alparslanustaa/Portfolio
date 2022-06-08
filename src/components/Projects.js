@@ -12,6 +12,23 @@ const Projects = () => {
           <p>Projects</p>
           <p>Here is some of my recent projects</p>
         </div>
+        <div>
+          <div>
+            <div>
+              <span></span>
+              <div>
+                <a href="/">
+                  <button></button>
+                </a>
+              </div>
+              <div>
+                <a href="/">
+                  <button></button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
