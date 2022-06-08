@@ -13,8 +13,13 @@ const Projects = () => {
           </p>
           <p className="py-6">Here is some of my recent projects</p>
         </div>
-        <div>
-          <div>
+
+        {/* Container */}
+
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+          <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
+            {/* Hover effects */}
+
             <div>
               <span></span>
               <div>
