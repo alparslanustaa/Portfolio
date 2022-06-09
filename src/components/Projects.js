@@ -1,4 +1,6 @@
 import React from "react";
+import interview from "../assets/interview.jpg";
+import markdown from "../assets/markdown.jpg";
 
 const Projects = () => {
   return (
