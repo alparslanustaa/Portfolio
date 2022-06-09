@@ -1,6 +1,9 @@
 import React from "react";
 import interview from "../assets/interview.jpg";
 import markdown from "../assets/markdown.jpg";
+import tweeter from "../assets/tweeter.jpg";
+import tiny from "../assets/tiny.png";
+import portfolio from "../assets/portfolio.png";
 
 const Projects = () => {
   return (
@@ -70,7 +73,7 @@ const Projects = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${interview})` }}
+            style={{ backgroundImage: `url(${tweeter})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -95,7 +98,7 @@ const Projects = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${interview})` }}
+            style={{ backgroundImage: `url(${tiny})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -120,7 +123,7 @@ const Projects = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${interview})` }}
+            style={{ backgroundImage: `url(${portfolio})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
