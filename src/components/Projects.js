@@ -4,6 +4,7 @@ import markdown from "../assets/markdown.jpg";
 import tweeter from "../assets/tweeter.jpg";
 import tiny from "../assets/tiny.png";
 import portfolio from "../assets/portfolio.png";
+import jungle from "../assets/jungle.png";
 
 const Projects = () => {
   return (
@@ -54,7 +55,7 @@ const Projects = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                React, JS and Tailwind Application
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -79,7 +80,7 @@ const Projects = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                JS, jQuery and AJAX Application
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -104,7 +105,7 @@ const Projects = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Node and Express Application
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -148,13 +149,13 @@ const Projects = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${interview})` }}
+            style={{ backgroundImage: `url(${jungle})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Ruby Application
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
