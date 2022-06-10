@@ -109,17 +109,17 @@ const NavBar = () => {
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
-            <a
-              className="flex justify-between items-center w-full text-gray-300"
-              href="/"
-            >
-              Email <HiOutlineMail size={30} />
-            </a>
+            <p className="flex justify-between items-center w-full text-gray-300">
+              <Link to="contact" smooth={true} duration={500}>
+                Contact
+              </Link>
+              <HiOutlineMail size={30} />
+            </p>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://drive.google.com/file/d/17zfwkb8gLMyH_EIRJUuOb6jNbxntWWsk/view?usp=sharing"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
