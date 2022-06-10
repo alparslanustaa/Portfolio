@@ -8,11 +8,11 @@ https://alparslanustaa.herokuapp.com/
 
 ### Desktop
 
-!["Desktop"](./Portfolio/portfolio-react/public/screenshots/Screen Shot 2022-06-10 at 3.53.18 AM.png)
+!["Desktop"](https://github.com/alparslanustaa/Portfolio/blob/main/public/screenshots/Screen%20Shot%202022-06-10%20at%203.53.18%20AM.png?raw=true) !["Desktop"](https://github.com/alparslanustaa/Portfolio/blob/main/public/screenshots/Screen%20Shot%202022-06-10%20at%203.53.32%20AM.png?raw=true)
 
 ### Mobile
 
-!["Mobile"](./Portfolio/portfolio-react/public/screenshots/Screen Shot 2022-06-10 at 3.53.18 AM.png)
+!["Mobile"](https://github.com/alparslanustaa/Portfolio/blob/main/public/screenshots/Screen%20Shot%202022-06-10%20at%203.54.07%20AM.png?raw=true)
 
 ### Frontend - Running React Client
 
