@@ -33,18 +33,11 @@ const Projects = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/alparslanustaa/scheduler">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Code
                   </button>
                 </a>
-                <div>
-                  <a href="/">
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
-                    </button>
-                  </a>
-                </div>
               </div>
             </div>
           </div>
@@ -58,18 +51,11 @@ const Projects = () => {
                 React, JS and Tailwind Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/alparslanustaa/MarkThatDown">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Code
                   </button>
                 </a>
-                <div>
-                  <a href="/">
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
-                    </button>
-                  </a>
-                </div>
               </div>
             </div>
           </div>
@@ -83,18 +69,11 @@ const Projects = () => {
                 JS, jQuery and AJAX Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/alparslanustaa/tweeter">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Code
                   </button>
                 </a>
-                <div>
-                  <a href="/">
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
-                    </button>
-                  </a>
-                </div>
               </div>
             </div>
           </div>
@@ -108,18 +87,11 @@ const Projects = () => {
                 Node and Express Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/alparslanustaa/tinyapp">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Code
                   </button>
                 </a>
-                <div>
-                  <a href="/">
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
-                    </button>
-                  </a>
-                </div>
               </div>
             </div>
           </div>
@@ -133,18 +105,11 @@ const Projects = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/alparslanustaa/Portfolio">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Code
                   </button>
                 </a>
-                <div>
-                  <a href="/">
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
-                    </button>
-                  </a>
-                </div>
               </div>
             </div>
           </div>
@@ -158,18 +123,11 @@ const Projects = () => {
                 Ruby Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/alparslanustaa/Jungle-Project">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Code
                   </button>
                 </a>
-                <div>
-                  <a href="/">
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
-                    </button>
-                  </a>
-                </div>
               </div>
             </div>
           </div>
